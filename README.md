@@ -7,8 +7,8 @@
 This README provides instructions on how to use a BNC connector with an Arduino MEGA, controlled by Python scripts. The BNC connector has its ground connected to the GND pin of the Arduino and the other end connected to pin 2 of the digital pins.
 
 # Components
-Arduino MEGA
-BNC Connector
+Arduino MEGA <br />
+BNC Connector <br />
 Python Scripts: BNC_activate.py, BNC_activate_countdown.py
 Arduino Sketch: BNC_sketch/BNC_sketch_v1.ino
 Wiring
